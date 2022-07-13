@@ -1,0 +1,5 @@
+{'cmd': 'register', 'msg': '设备序列号为KJ957H695Y    confirm_register!   ', 'id': 'KJ957H695Y'}
+当前设备的公钥为： 0x9D9922dCDCE0a3E6f013f415e4D825cf60b83ed7
+私钥为： 503f38a9c967ed597e47fe25643985f032b072db8075426a92110f82df48dfcb
+{'cmd': 'verify', 'msg': '18071111_SYX', 'id': 'KJ957H695Y'}
+{'cmd': 'shake_result', 'msg': '验证结果：invalid signature', 'id': '0x9D9922dCDCE0a3E6f013f415e4D825cf60b83ed7'}

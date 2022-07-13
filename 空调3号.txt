@@ -1,0 +1,1 @@
+{'cmd': 'register', 'msg': '设备序列号为DMPCPUDPTRK    confirm_register!   ', 'id': 'DMPCPUDPTRK'}

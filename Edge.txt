@@ -1,0 +1,7 @@
+{'cmd': 'deregister', 'msg': ' ', 'id': 'KJ957H695Y'}
+{'cmd': 'deregister', 'msg': ' ', 'id': 'Q2NNW20813000326'}
+{'cmd': 'deregister', 'msg': ' ', 'id': 'FVFWD0WEHV29'}
+{'cmd': 'deregister', 'msg': ' ', 'id': 'DMPCPUDPTRK'}
+{'cmd': 'deregister', 'msg': ' ', 'id': 'baydts4nnjjpvug'}
+{'cmd': 'verify_start', 'msg': '0x9D9922dCDCE0a3E6f013f415e4D825cf60b83ed7', 'id': 'KJ957H695Y'}
+{'cmd': 'shake', 'msg': "['0xf6b838667ad113faa22c7288071264567e2a8909160f45b2d2c5a22881b53d87', '0x3009f4b55a1f8f2d3ec8f21548a1c7f59b5c2994a9aebf3c122626bb401c8d652fabb7e18ccfe642149d17f3d74dd0e507886a858d088d55d01cf44cb0607b841c']", 'id': '0x9D9922dCDCE0a3E6f013f415e4D825cf60b83ed7'}

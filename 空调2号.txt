@@ -1,0 +1,1 @@
+{'cmd': 'register', 'msg': '设备序列号为FVFWD0WEHV29    reject！！   ', 'id': 'FVFWD0WEHV29'}

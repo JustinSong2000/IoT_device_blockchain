@@ -1,0 +1,1 @@
+{'cmd': 'register', 'msg': '设备序列号为Q2NNW20813000326    confirm_register!   ', 'id': 'Q2NNW20813000326'}
